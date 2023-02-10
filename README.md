@@ -1,0 +1,2 @@
+# BlendRL-Reinforcement-Learning-for-Blender-3D---Revolutionize-Your-Creation-Process-
+BlendRL is an innovative open-source project that leverages the power of AI to enhance the 3D creation process. By training an AI agent to learn the controls of Blender, artists can have a powerful assistant that can help them bring their visions to life. This can free up time and effort for artists to focus on the creative aspects of their work.
